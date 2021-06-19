@@ -1,1 +1,1 @@
-# DLTasks
+# GAN-architecture models
